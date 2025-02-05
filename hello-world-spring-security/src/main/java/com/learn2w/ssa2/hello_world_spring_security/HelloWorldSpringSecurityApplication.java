@@ -8,6 +8,7 @@ public class HelloWorldSpringSecurityApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloWorldSpringSecurityApplication.class, args);
+		//test
 
 	}
 

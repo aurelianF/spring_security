@@ -8,7 +8,7 @@ public class HelloController {
     @GetMapping("/hello")
     public String hello() {
         System.out.println("request received");
-        return "hello_world";
+        return "hello_world"; // test comment
     }
 
 }
